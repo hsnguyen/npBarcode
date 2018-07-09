@@ -21,7 +21,7 @@ General information of Japsa can be found on its [ReadTheDoc](http://japsa.readt
 
 If you find npBarcode useful for your research, please cite its publication:
 
-Application note to come...
+Nguyen, S. H., Duarte, T. P., Coin, L. J., & Cao, M. D. (2017). Real-time demultiplexing Nanopore barcoded sequencing data with npBarcode. Bioinformatics, 33(24), 3988-3990.
 
 ## License
 
